@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Realm Plugin",
+          "description": "Android Realm database driver for Facebook Flipper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-04-06T07:30:05Z",
+            "owner": "kamgurgul",
+            "repo": "Flipper-Realm",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMKV Viewer Plugin",
+          "description": "View or edit the key-value inside the MMKV (WeChat key-value storage) file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-09-17T09:21:14Z",
+            "owner": "ddyos",
+            "repo": "flipper-plugin-mmkv-viewer",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thread Inspector Plugin",
+          "description": "Show a table of threads and their stacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-12-16T05:43:04Z",
+            "owner": "s1rius",
+            "repo": "android-thread-inspector",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LifeCycle / BackStack Plugin",
+          "description": "This Flipper plugin is an app introspection plugin focused on application life cycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-10-24T07:24:06Z",
+            "owner": "afaucogney",
+            "repo": "flipper-backstack",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protobuf Retrofit Inspection Plugin",
+          "description": "Add support for Protobuf network payload inspection automatically from Retrofit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-06-26T17:13:41Z",
+            "owner": "hbmartin",
+            "repo": "protobuf_java_to_protobufjs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ktp Plugin",
+          "description": "A flipper plugin to analyse Toothpick DI runtime scope tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-02-10T23:29:19Z",
+            "owner": "afaucogney",
+            "repo": "flipper-ktp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stetho / Dumper Replacement Plugin",
+          "description": "Drop in replacement for Stetho to expose dumper plugins in Flipper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-05-28T20:49:12Z",
+            "owner": "hbmartin",
+            "repo": "flipper-plugin-stetho",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabular Data Plugin",
+          "description": "Display tables of data easily in Flipper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-07T16:54:03Z",
+            "owner": "hbmartin",
+            "repo": "flipper-plugin-tabular",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Navigation Plugin",
+          "description": "Routing and navigation for your React Native apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:36:22Z",
+            "owner": "react-navigation",
+            "repo": "react-navigation",
+            "stars": 24490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Performance Plugin",
+          "description": "Monitor and measure React Native performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-23T15:44:50Z",
+            "owner": "oblador",
+            "repo": "react-native-performance",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Performance Monitor for Android Plugin",
+          "description": "Monitor FPS rendering on Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-07T14:31:02Z",
+            "owner": "bamlab",
+            "repo": "react-native-flipper-performance-monitor",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Query Devtools",
+          "description": "Bringing the React Query Devtools experience to React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T18:00:42Z",
+            "owner": "bgaleotti",
+            "repo": "react-query-native-devtools",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Debugger Plugin",
+          "description": "Flipper plugin for Redux in React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T10:11:24Z",
+            "owner": "jk-gan",
+            "repo": "flipper-plugin-redux-debugger",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Async Storage Plugin",
+          "description": "React Native's Async Storage logger for Flipper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-20T01:09:39Z",
+            "owner": "Fausto95",
+            "repo": "rn-async-storage-flipper",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridge Spy Plugin",
+          "description": "React Native bridge spy Flipper plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T17:46:29Z",
+            "owner": "sylvanaar",
+            "repo": "flipper-plugin-bridgespy",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobX Log Plugin",
+          "description": "Allows you read React Native MobX logs inside Flipper including action and state comparison.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-09T06:13:57Z",
+            "owner": "khorark",
+            "repo": "mobx-flipper",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Logging Plugin",
+          "description": "A flipper plugin to display all events sent to different service via react-native-logging-tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T12:53:25Z",
+            "owner": "imranMnts",
+            "repo": "flipper-plugin-react-native-logging-tools",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Database Plugin",
+          "description": "This React Native plugin allows browsing popular React Native databases using Flipper built-in Databases plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-21T12:01:45Z",
+            "owner": "panz3r",
+            "repo": "react-native-flipper-databases",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:40.044Z",
+    "original_repository": "hbmartin/awesome-flipper-plugins",
+    "original_repository_sha": "88d0e4139e7d034b8fa43e4366c6d7ddc403f7d7",
+    "enhanced_repository": "enhansome/enhansome-flipper-plugins",
+    "enhanced_repository_description": null,
+    "title": "Awesome Flipper Plugins with stars"
+  }
+}
