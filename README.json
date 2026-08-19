@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 222148338,
             "language": "Kotlin",
             "last_commit": "2025-04-06T07:30:05Z",
             "owner": "kamgurgul",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237397984,
             "language": "Kotlin",
             "last_commit": "2021-09-17T09:21:14Z",
             "owner": "ddyos",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264920155,
             "language": "Kotlin",
             "last_commit": "2021-12-16T05:43:04Z",
             "owner": "s1rius",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337987610,
             "language": "Kotlin",
             "last_commit": "2021-10-24T07:24:06Z",
             "owner": "afaucogney",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345739580,
             "language": "Kotlin",
             "last_commit": "2021-06-26T17:13:41Z",
             "owner": "hbmartin",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320201617,
             "language": "Kotlin",
             "last_commit": "2021-02-10T23:29:19Z",
             "owner": "afaucogney",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364100481,
             "language": "Java",
             "last_commit": "2021-05-28T20:49:12Z",
             "owner": "hbmartin",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357045056,
             "language": "TypeScript",
             "last_commit": "2022-01-07T16:54:03Z",
             "owner": "hbmartin",
@@ -119,7 +127,7 @@
       "title": "Android"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,8 +136,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80149262,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:18:30Z",
+            "last_commit": "2026-08-19T12:29:02Z",
             "owner": "react-navigation",
             "repo": "react-navigation",
             "stars": 24489
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225045576,
             "language": "TypeScript",
             "last_commit": "2025-10-23T15:44:50Z",
             "owner": "oblador",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297146421,
             "language": "TypeScript",
             "last_commit": "2023-11-07T14:31:02Z",
             "owner": "bamlab",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256885786,
             "language": "TypeScript",
             "last_commit": "2024-01-09T18:00:42Z",
             "owner": "bgaleotti",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256138585,
             "language": "TypeScript",
             "last_commit": "2023-02-04T10:11:24Z",
             "owner": "jk-gan",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257045270,
             "language": "JavaScript",
             "last_commit": "2023-10-20T01:09:39Z",
             "owner": "Fausto95",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326037889,
             "language": "TypeScript",
             "last_commit": "2023-01-06T17:46:29Z",
             "owner": "sylvanaar",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266553540,
             "language": "TypeScript",
             "last_commit": "2023-02-09T06:13:57Z",
             "owner": "khorark",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283867899,
             "language": "TypeScript",
             "last_commit": "2023-01-06T12:53:25Z",
             "owner": "imranMnts",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952503567,
             "language": "TypeScript",
             "last_commit": "2025-03-21T12:01:45Z",
             "owner": "panz3r",
@@ -263,16 +281,12 @@
         }
       ],
       "title": "React"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:03:20.156Z",
+    "last_updated": "2026-08-19T12:29:05.920Z",
     "original_repository": "hbmartin/awesome-flipper-plugins",
+    "original_repository_id": 372308565,
     "original_repository_sha": "88d0e4139e7d034b8fa43e4366c6d7ddc403f7d7",
     "enhanced_repository": "enhansome/enhansome-flipper-plugins",
     "enhanced_repository_description": null,
