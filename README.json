@@ -138,10 +138,10 @@
             "archived": false,
             "id": 80149262,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:29:02Z",
+            "last_commit": "2026-08-19T17:54:28Z",
             "owner": "react-navigation",
             "repo": "react-navigation",
-            "stars": 24489
+            "stars": 24490
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:05.920Z",
+    "last_updated": "2026-08-19T18:00:24.342Z",
     "original_repository": "hbmartin/awesome-flipper-plugins",
     "original_repository_id": 372308565,
     "original_repository_sha": "88d0e4139e7d034b8fa43e4366c6d7ddc403f7d7",
