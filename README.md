@@ -28,7 +28,7 @@
 * [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) ⭐ 602 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-07 - Monitor FPS rendering on Android.
 * [React Query Devtools](https://github.com/bgaleotti/react-query-native-devtools) ⭐ 174 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-09 - Bringing the React Query Devtools experience to React Native.
 * [Redux Debugger Plugin](https://github.com/jk-gan/flipper-plugin-redux-debugger) ⭐ 115 | 🐛 10 | 🌐 TypeScript | 📅 2023-02-04 - Flipper plugin for Redux in React Native.
-* [Async Storage Plugin](https://github.com/Fausto95/rn-async-storage-flipper) ⭐ 47 | 🐛 12 | 🌐 JavaScript | 📅 2023-10-20 - React Native's Async Storage logger for Flipper.
+* [Async Storage Plugin](https://github.com/Fausto95/rn-async-storage-flipper) ⚠️ Archived - React Native's Async Storage logger for Flipper.
 * [Bridge Spy Plugin](https://github.com/sylvanaar/flipper-plugin-bridgespy) ⭐ 18 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-06 - React Native bridge spy Flipper plugin.
 * [MobX Log Plugin](https://github.com/khorark/mobx-flipper) ⭐ 18 | 🐛 15 | 🌐 TypeScript | 📅 2023-02-09 - Allows you read React Native MobX logs inside Flipper including action and state comparison.
 * [React Native Logging Plugin](https://github.com/imranMnts/flipper-plugin-react-native-logging-tools) ⭐ 3 | 🐛 9 | 🌐 TypeScript | 📅 2023-01-06 - A flipper plugin to display all events sent to different service via react-native-logging-tools.

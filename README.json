@@ -210,7 +210,7 @@
           "description": "React Native's Async Storage logger for Flipper.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 257045270,
             "language": "JavaScript",
             "last_commit": "2023-10-20T01:09:39Z",
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:24.478Z",
+    "last_updated": "2026-08-25T18:04:58.642Z",
     "original_repository": "hbmartin/awesome-flipper-plugins",
     "original_repository_id": 372308565,
     "original_repository_sha": "88d0e4139e7d034b8fa43e4366c6d7ddc403f7d7",
