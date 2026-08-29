@@ -24,7 +24,7 @@
 ## React
 
 * [React Navigation Plugin](https://github.com/react-navigation/react-navigation) ⭐ 24,500 | 🐛 843 | 🌐 TypeScript | 📅 2026-08-26 - Routing and navigation for your React Native apps.
-* [React Native Performance Plugin](https://github.com/oblador/react-native-performance) ⭐ 1,055 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-23 - Monitor and measure React Native performance.
+* [React Native Performance Plugin](https://github.com/oblador/react-native-performance) ⭐ 1,056 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-23 - Monitor and measure React Native performance.
 * [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) ⭐ 602 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-07 - Monitor FPS rendering on Android.
 * [React Query Devtools](https://github.com/bgaleotti/react-query-native-devtools) ⭐ 174 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-09 - Bringing the React Query Devtools experience to React Native.
 * [Redux Debugger Plugin](https://github.com/jk-gan/flipper-plugin-redux-debugger) ⭐ 115 | 🐛 10 | 🌐 TypeScript | 📅 2023-02-04 - Flipper plugin for Redux in React Native.
