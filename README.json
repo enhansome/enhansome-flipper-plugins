@@ -245,7 +245,7 @@
             "open_issues": 4,
             "owner": "oblador",
             "repo": "react-native-performance",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "flipper",
               "metrics",
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:03:16.649Z",
+    "last_updated": "2026-09-01T20:09:29.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome plugins for the Flipper debugging tool",
