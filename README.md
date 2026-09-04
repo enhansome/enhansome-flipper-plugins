@@ -23,9 +23,9 @@
 
 ## React
 
-* [React Navigation Plugin](https://github.com/react-navigation/react-navigation) ⭐ 24,504 | 🐛 843 | 🌐 TypeScript | 📅 2026-08-26 - Routing and navigation for your React Native apps.
-* [React Native Performance Plugin](https://github.com/oblador/react-native-performance) ⭐ 1,058 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-23 - Monitor and measure React Native performance.
-* [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) ⭐ 602 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-07 - Monitor FPS rendering on Android.
+* [React Navigation Plugin](https://github.com/react-navigation/react-navigation) ⭐ 24,504 | 🐛 844 | 🌐 TypeScript | 📅 2026-08-26 - Routing and navigation for your React Native apps.
+* [React Native Performance Plugin](https://github.com/oblador/react-native-performance) ⭐ 1,057 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-23 - Monitor and measure React Native performance.
+* [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) ⭐ 601 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-07 - Monitor FPS rendering on Android.
 * [React Query Devtools](https://github.com/bgaleotti/react-query-native-devtools) ⭐ 174 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-09 - Bringing the React Query Devtools experience to React Native.
 * [Redux Debugger Plugin](https://github.com/jk-gan/flipper-plugin-redux-debugger) ⭐ 115 | 🐛 10 | 🌐 TypeScript | 📅 2023-02-04 - Flipper plugin for Redux in React Native.
 * [Async Storage Plugin](https://github.com/Fausto95/rn-async-storage-flipper) ⚠️ Archived - React Native's Async Storage logger for Flipper.
@@ -40,4 +40,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
