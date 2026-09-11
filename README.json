@@ -219,7 +219,7 @@
             "open_issues": 848,
             "owner": "react-navigation",
             "repo": "react-navigation",
-            "stars": 24501,
+            "stars": 24500,
             "topics": [
               "navigation",
               "react",
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:03:01.938Z",
+    "last_updated": "2026-09-11T20:02:48.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome plugins for the Flipper debugging tool",
