@@ -23,7 +23,7 @@
 
 ## React
 
-* [React Navigation Plugin](https://github.com/react-navigation/react-navigation) ⭐ 24,510 | 🐛 853 | 🌐 TypeScript | 📅 2026-09-22 - Routing and navigation for your React Native apps.
+* [React Navigation Plugin](https://github.com/react-navigation/react-navigation) ⭐ 24,508 | 🐛 853 | 🌐 TypeScript | 📅 2026-09-22 - Routing and navigation for your React Native apps.
 * [React Native Performance Plugin](https://github.com/oblador/react-native-performance) ⭐ 1,059 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-13 - Monitor and measure React Native performance.
 * [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) ⭐ 601 | 🐛 15 | 🌐 TypeScript | 📅 2023-11-07 - Monitor FPS rendering on Android.
 * [React Query Devtools](https://github.com/bgaleotti/react-query-native-devtools) ⭐ 173 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-09 - Bringing the React Query Devtools experience to React Native.
@@ -40,4 +40,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
