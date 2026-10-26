@@ -215,11 +215,11 @@
             "id": 80149262,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-25T14:26:07Z",
-            "open_issues": 464,
+            "last_commit": "2026-10-26T19:47:00Z",
+            "open_issues": 386,
             "owner": "react-navigation",
             "repo": "react-navigation",
-            "stars": 24515,
+            "stars": 24516,
             "topics": [
               "navigation",
               "react",
@@ -245,7 +245,7 @@
             "open_issues": 5,
             "owner": "oblador",
             "repo": "react-native-performance",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "flipper",
               "metrics",
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:58:16.963Z",
+    "last_updated": "2026-10-26T21:53:22.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome plugins for the Flipper debugging tool",
